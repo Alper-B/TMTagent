@@ -1,0 +1,7 @@
+participant,task_type,total_time_ms,average_click_time_ms,miss_count,average_mouse_distance,search_speed,shift_speed,memory_speed,visual_capacity,visual_skip,click_overhead,mouse_speed
+subA,A,26328.888,1053.156,0,23.829,110,50,150,3,0,0,0.4
+subB,A,23966.324,958.653,0,22.482,110,50,150,3,0,0,0.4
+subC,A,24676.119,987.045,0,21.226,110,50,150,3,0,0,0.4
+subA,B,30839.129,1233.565,0,22.628,110,50,150,3,0,0,0.4
+subB,B,30977.047,1239.082,0,21.604,110,50,150,3,0,0,0.4
+subC,B,34919.764,1396.791,0,20.688,110,50,150,3,0,0,0.4
